@@ -1,0 +1,40 @@
+td {
+    white-space: normal !important; 
+    word-wrap: break-word;  
+    height:5px;
+  }
+  
+  .table-text{
+    
+    font-size: 12px;
+    border: none;
+  }
+
+  .table-heading{
+    border:none;
+    text-align: center;
+  }
+  table, tr, td {
+    border: none;
+}
+ 
+  .table-body tr{
+    background-color: white;
+    
+   
+  }
+
+  .table-heading tr{
+    background-color: rgb(161, 160, 160); 
+
+  }
+  td{
+    padding-top: 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  
+  tr:hover td {
+    background: #37b090 !important;
+    color:azure;
+}
